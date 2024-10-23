@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{8CF3B57B-B064-47B3-AEDF-017262CD678F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Automation__Framework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BrowserStackNUnitTest.cs">
+    <Files>
+      <File FileName="SingleTest.cs" Line="6" Column="10" />
+      <File FileName="ParallelTest.cs" Line="16" Column="1" />
+      <File FileName="BrowserStackNUnitTest.cs" Line="39" Column="50" />
+      <File FileName="LocalTest.cs" Line="5" Column="31" />
+      <File FileName="app.config" Line="59" Column="1" />
+      <File FileName="appsettings.json" Line="58" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NM_Automation_POC" expanded="True">
+            <Node name="Automation_Framework" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="BrowserStackNUnitTest.cs" selected="True" />
+            </Node>
+            <Node name="NM_TestCase_Library" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NM_Automation_POC" expanded="True">
+            <Node name="Automation_Framework" expanded="True">
+              <Node name="Automation_Framework" expanded="True">
+                <Node name="SingleTest(&quot;single&quot;,&quot;chrome&quot;)" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

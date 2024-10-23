@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+!.git
+!.art
+/NM_Automation_POC/.vs
+/NM_Automation_POC/obj
+/NM_Automation_POC/bin

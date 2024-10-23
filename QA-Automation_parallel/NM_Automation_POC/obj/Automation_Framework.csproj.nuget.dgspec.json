@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rathilpatel/Downloads/QA-Automation_parallel/NM_Automation_POC/Automation_Framework.csproj": {}
+  },
+  "projects": {
+    "/Users/rathilpatel/Downloads/QA-Automation_parallel/NM_Automation_POC/Automation_Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rathilpatel/Downloads/QA-Automation_parallel/NM_Automation_POC/Automation_Framework.csproj",
+        "projectName": "Automation_Framework",
+        "projectPath": "/Users/rathilpatel/Downloads/QA-Automation_parallel/NM_Automation_POC/Automation_Framework.csproj",
+        "packagesPath": "/Users/rathilpatel/.nuget/packages/",
+        "outputPath": "/Users/rathilpatel/Downloads/QA-Automation_parallel/NM_Automation_POC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rathilpatel/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "BrowserStackLocal": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "Microsoft.PowerBI.Api": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

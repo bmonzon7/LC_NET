@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name ="environment" value="UAT2" />
+	<Parameter name ="client" value="NM" />
+	<Parameter name ="browser" value="Chrome" />
+	<Parameter name ="browserType" value="Desktop" /> 
+  </TestRunParameters>
+</RunSettings>
